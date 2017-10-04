@@ -148,7 +148,11 @@ li a
     font-size: 17px;
    font-family: 'Raleway', sans-serif;
     padding: 5px 0px;
-   
+    }
+
+#redact-text p {
+    font-size: 15px;
+   font-family: 'Raleway', sans-serif; 
     }
 
 .main_content 
