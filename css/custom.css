@@ -225,6 +225,13 @@ iframe
     background-position: center;
     background-size: cover;
 }
+#wrapperNotices
+{
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
 #overlay-1
 {
     background-color: rgba(40, 40, 40, 0.6);
