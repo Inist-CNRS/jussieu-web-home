@@ -13,6 +13,9 @@
     box-shadow: none;
 }
 
+h3 {
+    margin-bottom: 20px;
+}
 a {
     color: rgb(32, 178, 170);
 }
@@ -173,6 +176,10 @@ iframe
 .form-control
 {
     border-radius: 0px;
+}
+.country {
+    font-weight: bold;
+    font-style: italic;
 }
 /*-----------------------------------------------------------------------------------------------------
                                 navbar
